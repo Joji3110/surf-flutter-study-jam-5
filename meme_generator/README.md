@@ -1,16 +1,18 @@
-# meme_generator
+# Meme Generator
 
-A new Flutter project.
+## Meme Generator - это приложение для создания демотиваторов с изображениями и текстом. Пользователи могут загружать изображения из веба или выбирать из галереи, добавлять к ним текст и редактировать параметры демотиватора.
 
-## Getting Started
+## Использование
+### 1. Главный экран:
 
-This project is a starting point for a Flutter application.
+ Приложение открывается на главном экране, где вы можете создать демотиватор.
+Нажмите на иконку веба, чтобы ввести ссылку на изображение и название.
+Или нажмите на иконку изображения, чтобы выбрать изображение из галереи.
+### 2. Редактирование:
 
-A few resources to get you started if this is your first Flutter project:
+ После загрузки изображения вы можете изменять текст и параметры демотиватора.
+Нажмите на изображение, чтобы отредактировать его параметры.
+### 3. Делитесь:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+После редактирования нажмите на кнопку "Поделиться" в правом нижнем углу.
+Выберите метод для обмена демотиватором, например, отправку через мессенджеры или соцсети.
